@@ -14,7 +14,7 @@ INAM Capital is a private investment firm specializing in distressed assets and 
 
 ## Contact
 
-For inquiries, please contact us at [info@inamcapital.com](mailto:info@inamcapital.com).
+For inquiries, please contact us at [contact@inamcapital.com](mailto:info@inamcapital.com).
 
 ## Legal
 
