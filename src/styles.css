@@ -66,7 +66,7 @@ body {
 
 .logo-image {
   flex: none;
-  width: clamp(120px, 16vw, 160px);
+  width: clamp(180px, 24vw, 280px);
   height: auto;
   display: block;
   object-fit: contain;
